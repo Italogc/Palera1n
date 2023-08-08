@@ -55,6 +55,9 @@ https://github.com/palera1n/palen1x/releases
 <h3>6.10 - Siga as instruções de DFU que aparecerem na tela durante o processo e aguarde o fim do processo de Jailbreak</h3>
 <h3>6.10.1 - O processo de jailbreak ROOTFULL pode demorar de 10 a 45 minutos para concluir, portanto tenha paciência</h3>
 
+<h2>IMPORTANTE PARA PALEN1X ROOTLESS VENTOY:</h3>
+<h3>Caso no meio do processo do jailbreak o terminal trave em "Booting Pongo-OS USB Device" é normal, não se preocupe, para corrigir isso basta segurar juntas as teclas "CTRL" e "C" do teclado e digitar o comando "Palera1n -n" e teclar "ENTER" que o processo de jailbreak vai terminar normalmente, caso contrário, basta segurar juntas as teclas "CTRL" e "C" do teclado e digitar o comando "exit" e teclar "ENTER" e escolher as opções de jailbreak 6.4 até 6.9 tudo novamente e aguardar que nessa nova vez o procedimento de jailbreak termina com sucesso sem erros.</h3>
+
 
 
 
