@@ -58,6 +58,9 @@ https://github.com/palera1n/palen1x/releases
 <h2>IMPORTANTE PARA PALEN1X ROOTLESS VENTOY:</h3>
 <h3>Caso no meio do processo do jailbreak o terminal trave em "Booting Pongo-OS USB Device" é normal, não se preocupe, para corrigir isso basta segurar juntas as teclas "CTRL" e "C" do teclado e digitar o comando "Palera1n -n" e teclar "ENTER" que o processo de jailbreak vai terminar normalmente, caso contrário, basta segurar juntas as teclas "CTRL" e "C" do teclado e digitar o comando "exit" e teclar "ENTER" e escolher as opções de jailbreak 6.4 até 6.9 tudo novamente e aguardar que nessa nova vez o procedimento de jailbreak termina com sucesso sem erros.</h3>
 
+<h2>Curiosidade:</h2>
+<h3>No dia 14/11/2023, no site de "Nickchan" de desenvolvimento do Palera1n, foi lançado um novo beta 308 do Palera1n para todos aparelhos A11- com o nome ColorfulSt0rm, cuja função era de ocultar todos os arquivos do jailbreak no sistema root de quem instalava essa versão no aparelho, isso era possível dando ao usuario nenhuma das 3 opções de arquivos e pastas (leitura, escrita e gravação). O motivo de fazerem tal função ainda é suspeita, mas com toda certeza é algo relacionado ao novo palera1n do iOS16 e iOS17 de 2023 que chamará agora Plooshra1n. E o símbolo que esse palera1n colorfulst0rm deixava no meu aparelho eu consegui achar aqui mesmo no github, no campo https://github.com/colorfulst0rm </h3>
+
 
 
 
